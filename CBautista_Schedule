@@ -1,16 +1,27 @@
 <html>
-<table>
-<tr>
-<head>
-<td>Monday</td>
-<td>Tuesday</td>
-<td>Wednesday</td>
-<td>Thursday</td>
-<td>Friday</td>
-</head>
-</tr>
-<tr>
+	<head>
+    	<title>Schedule</title>
+	# Missing ending head tag
+    # Missing a start body tag
+    	# All content indented between start body tag and end body tag
+    # Missing end body tag
+# end HTML tag
+	
+    	<table>
+			<tr>
+				<td>Monday</td>
+				<td>Tuesday</td>
+				<td>Wednesday</td>
+				<td>Thursday</td>
+				<td>Friday</td>
+			# Missing end row tag
+    		# Complete other rows the same way
+
+   
+			</tr>
+   </head>
 <body>
+<tr>
 <td>Freshman Seminar</td>
 <td>CRYMA</td>
 <td>Freshman Seminar</td>
@@ -65,7 +76,7 @@
 <td>English</td>
 <td>English</td>
 <td>English</td>
-</body>
 </tr>
+</body>
 </table>
 </html>
