@@ -1,11 +1,8 @@
 <html>
 	<head>
     	<title>Schedule</title>
-	# Missing ending head tag
-    # Missing a start body tag
+    </head>
     	# All content indented between start body tag and end body tag
-    # Missing end body tag
-# end HTML tag
 	
     	<table>
 			<tr>
@@ -19,15 +16,14 @@
 
    
 			</tr>
-   </head>
-<body>
-<tr>
-<td>Freshman Seminar</td>
-<td>CRYMA</td>
-<td>Freshman Seminar</td>
-<td>CRYMA</td> 
-<td>Freshman Seminar</td>
-</tr>
+		<body>
+		<tr>
+			<td>Freshman Seminar</td>
+			<td>CRYMA</td>
+			<td>Freshman Seminar</td>
+			<td>CRYMA</td> 
+			<td>Freshman Seminar</td>
+		</tr>
 <tr>
 <td>Intro to Web Development</td>
 <td>Intro to Web Development</td>
@@ -71,12 +67,12 @@
 <td>Biology</td>
 </tr>
 <tr>
-<td>English</td>
-<td>English</td>
-<td>English</td>
-<td>English</td>
-<td>English</td>
+	<td>English</td>
+		<td>English</td>
+		<td>English</td>
+		<td>English</td>
+	<td>English</td>
 </tr>
-</body>
 </table>
+</body>
 </html>
