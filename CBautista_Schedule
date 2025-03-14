@@ -2,21 +2,18 @@
 	<head>
     	<title>Schedule</title>
     </head>
-    	# All content indented between start body tag and end body tag
-	
+<body>	
     	<table>
 			<tr>
-				<td>Monday</td>
+				
+               	<td>Monday</td>
 				<td>Tuesday</td>
 				<td>Wednesday</td>
 				<td>Thursday</td>
 				<td>Friday</td>
-			# Missing end row tag
-    		# Complete other rows the same way
 
-   
 			</tr>
-		<body>
+		
 		<tr>
 			<td>Freshman Seminar</td>
 			<td>CRYMA</td>
@@ -24,55 +21,56 @@
 			<td>CRYMA</td> 
 			<td>Freshman Seminar</td>
 		</tr>
-<tr>
-<td>Intro to Web Development</td>
-<td>Intro to Web Development</td>
-<td>Intro to Web Development</td>
-<td>Intro to Web Development</td>
-<td>Intro to Web Development</td>
-</tr>
-<tr>
-<td>Algebra</td>
-<td>Algebra</td>
-<td>Algebra</td>
-<td>Algebra</td>
-<td>Algebra</td>
-</tr>
-<tr>
-<td>Global Studies</td>
-<td>Global Studies</td>
-<td>Global Studies</td>
-<td>Global Studies</td>
-<td>Global Studies</td>
-</tr>
-<tr>
-<td>Math Lab</td>
-<td>Physical Education</td>
-<td>Math Lab</td>
-<td>Physical Education</td>
-<td>Math Lab</td>
-</tr>
-<tr>
-<td>Lunch</td>
-<td>Lunch</td>
-<td>Lunch</td>
-<td>Lunch</td>
-<td>Lunch</td>
-</tr>
-<tr>
-<td>Biology</td>
-<td>Biology</td>
-<td>Biology</td>
-<td>Biology</td>
-<td>Biology</td>
-</tr>
-<tr>
-	<td>English</td>
+	<tr>
+		<td>Intro to Web Development</td>
+		<td>Intro to Web Development</td>
+		<td>Intro to Web Development</td>
+		<td>Intro to Web Development</td>
+		<td>Intro to Web Development</td>
+	</tr>
+		<tr>
+			<td>Algebra</td>
+			<td>Algebra</td>
+			<td>Algebra</td>
+			<td>Algebra</td>
+			<td>Algebra</td>
+		</tr>
+	<tr>
+		<td>Global Studies</td>
+		<td>Global Studies</td>
+		<td>Global Studies</td>
+		<td>Global Studies</td>
+		<td>Global Studies</td>
+	</tr>
+		<tr>
+			<td>Math Lab</td>
+			<td>Physical Education</td>
+			<td>Math Lab</td>
+			<td>Physical Education</td>
+			<td>Math Lab</td>
+		</tr>
+	<tr>
+		<td>Lunch</td>
+		<td>Lunch</td>
+		<td>Lunch</td>
+		<td>Lunch</td>
+		<td>Lunch</td>
+	</tr>
+		<tr>
+			<td>Biology</td>
+			<td>Biology</td>
+			<td>Biology</td>
+			<td>Biology</td>
+			<td>Biology</td>
+		</tr>
+	<tr>
 		<td>English</td>
 		<td>English</td>
 		<td>English</td>
-	<td>English</td>
-</tr>
+		<td>English</td>
+		<td>English</td>
+	</tr>
 </table>
 </body>
 </html>
+
