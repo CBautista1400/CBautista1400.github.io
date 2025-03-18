@@ -4,10 +4,29 @@
     	</head>
 	<body>	
     	<table>
-        
+    <style>
+        body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 			<tr>
 				
-               			<td>Monday</td>
+               	<td>Monday</td>
 				<td>Tuesday</td>
 				<td>Wednesday</td>
 				<td>Thursday</td>
