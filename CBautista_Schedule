@@ -1,9 +1,9 @@
 <html>
 	<head>
     		<title>Schedule</title>
-		<h1>Schedule</h1>
     	</head>
 	<body>	
+<h1>Schedule</h1>
     	<table>
     <style>
         body {
