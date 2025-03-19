@@ -19,12 +19,12 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-</style>
-<style>
-table, th, td {
+	</style>
+	<style>
+	table, th, td {
   border: 1px solid black;
 }
-</style>
+	</style>
 			<tr>
 				
                	<td>Monday</td>
