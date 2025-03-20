@@ -18,8 +18,8 @@
   background-color: lightgreen;
 }
 
-h1 {
-  color: Black;
+table,h1{
+  color: black;
   text-align: center;
 }
 
@@ -99,11 +99,7 @@ p {
             
 			<tr>
             
-		<td>Lunch</td>
-		<td>Lunch</td>
-		<td>Lunch</td>
-		<td>Lunch</td>
-		<td>Lunch</td>
+		<td colspan = "5">Lunch</td>
         
 			</tr>
             
