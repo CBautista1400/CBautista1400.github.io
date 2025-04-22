@@ -1,1 +1,20 @@
+*{
+  boxing-sizing:borderbox;
+}
 
+
+*.header{
+  text-align:center;
+  font:helvectica
+  color:white;
+  Background-color:blue
+  font-size:20px;
+}
+
+*header2{
+}
+font-size:20px;
+
+*.main{
+
+}
