@@ -1,14 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+
 <html>
-<head>
-<title>Resume</title>
-</head>
-<body>
-
-<h1>Carlos Bautista Resume</h1>
-<p>Name: Carlos Bautista</p>
-<p>Education: 9th Grade at Inwood Early College</p>
-<p>Summer Youth Employment Program Coming 2025</p>
-
-</body>
+  <head>
+    <title> BautistaC Portfolio</title>
+    <link rel = "stylesheet" href = BautistaC_Portfolio_Styles.css">
+  </head>
+  <body>
+    
+  </body>
 </html>
