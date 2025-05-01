@@ -1,20 +1,28 @@
 *{
-  boxing-sizing:borderbox;
+  box-sizing:border-box;
 }
 
 
-*.header{
-  text-align:center;
-  font:helvectica
-  color:white;
-  Background-color:blue
+.header{
+  text-align: center;
+  font: helvetica;
+  color: white;
+  background-color:blue;
+  font-size:50px;
+}
+
+.header2{
+  text-align: center;
+  font: helvetica;
+  color: white;
+  background-color:lightblue;
   font-size:20px;
 }
 
-*header2{
-}
-font-size:20px;
-
-*.main{
-
+.main{
+  text-align: left;
+  font: helvetica;
+  color: lightblue;
+  background-color:white;
+  font-size:20px;
 }
